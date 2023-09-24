@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: monospace;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+}
+
+#bars {
+    margin-top: 0;
+    display: flex;
+    flex-direction: row;
+    }
+
+#options {
+    position:fixed;
+    width: 11%;
+    margin-left: 0;
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    overflow: hidden; 
+    text-align:center;
+}
+    
+    
+.grid-container {
+    display: grid;
+    grid-template-columns: 80% 20%;
+    margin-left: 11%;
+        
+    }
+    
+
+img {
+    width: 100%;
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    }
+    
+.items {
+    display: flex;
+    flex-direction: column;
+    margin-right: 0;
+    margin-top: 0;
+    font-size: 20px;
+    text-align:center;
+}
+
+.o1 {
+    height: 4vh; background-color:lightblue;
+}
+.o2 {
+    height: 4vh; background-color:lightcyan;
+}
+.o3 {
+    height: 4vh; background-color:lightblue;
+}
+.o4 {
+    height: 4vh; background-color:lightcyan;
+}
+.o5 {
+    height: 4vh; background-color:lightblue;
+}
+.o6 {
+    height: 4vh; background-color:lightcyan;
+}
+.o7 {
+    height: 4vh; background-color:lightblue;
+}
+.o8 {
+    height: 4vh; background-color:lightcyan;
+}
+.o9 {
+    height: 4vh; background-color:lightblue;
+}
+.o10 {
+    height: 4vh; background-color:lightcyan;
+}
+.o11 {
+    height: 4vh; background-color:lightblue;
+}
+.o12 {
+    height: 4vh; background-color:lightcyan;
+}
+.o13 {
+    height: 4vh; background-color:lightblue;
+}
+.o14 {
+    height: 4vh; background-color:lightcyan;
+}
+.o15 {
+    height: 4vh; background-color:lightblue;
+}
+.o16 {
+    height: 4vh; background-color:lightcyan;
+}
+.o17 {
+    height: 4vh; background-color:lightblue;
+}
+.o18 {
+    height: 4vh; background-color:lightcyan;
+}
+.o19 {
+    height: 4vh; background-color:lightblue;
+}
+.o20 {
+    height: 4vh; background-color:lightcyan;
+}
+.o21 {
+    height: 4vh; background-color:lightblue;
+}
+.o22 {
+    height: 4vh; background-color:lightcyan;
+}
+.o23 {
+    height: 4vh; background-color:lightblue;
+}
+.o24 {
+    height: 4vh; background-color:lightcyan;
+}
+.o25 {
+    height: 4vh; background-color:lightblue;
+}
